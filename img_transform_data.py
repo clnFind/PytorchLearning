@@ -7,6 +7,7 @@ import os
 import torch
 import torchvision
 
+__author__ = 'clnFind'
 
 # 图片处理
 data_transforms = {
